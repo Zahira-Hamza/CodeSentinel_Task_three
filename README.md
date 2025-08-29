@@ -108,7 +108,8 @@ Endpoint used: https://dummyjson.com/posts
 
 
 ##  Contact
-Author: *Zahira Hamza*
+Author: **Zahira Hamza**
+
 GitHub: https://github.com/Zahira-Hamza
 Project Link: https://github.com/Zahira-Hamza/CodeSentinel_Task_three.git
 
